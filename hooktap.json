@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.2.0/hooktap_0.2.0_windows_amd64.zip",
+            "bin": [
+                "hooktap.exe"
+            ],
+            "hash": "f068eb563b0fe88bbc8a6072ec361761da060f61add759b4a9b53d1a6e895263"
+        },
+        "arm64": {
+            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.2.0/hooktap_0.2.0_windows_arm64.zip",
+            "bin": [
+                "hooktap.exe"
+            ],
+            "hash": "70cfd5b8ef3c69db582548e6179737560a3bf94b5705c5ef6bccf5bec6bd0b37"
+        }
+    },
+    "homepage": "https://hooktap.me",
+    "license": "MIT",
+    "description": "Send webhook events to the HookTap app from your terminal"
+}
