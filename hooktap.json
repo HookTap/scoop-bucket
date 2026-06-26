@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.3.0/hooktap_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.4.0/hooktap_0.4.0_windows_amd64.zip",
             "bin": [
                 "hooktap.exe"
             ],
-            "hash": "56738235d67ff379534262c4cb4b821de0d95120290fb567769cb747968e5026"
+            "hash": "afadab8c09bccb9d444f38ec3675673fc273ba466a45ab3fac120ff6d2bd5877"
         },
         "arm64": {
-            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.3.0/hooktap_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/HookTap/hooktap-cli/releases/download/v0.4.0/hooktap_0.4.0_windows_arm64.zip",
             "bin": [
                 "hooktap.exe"
             ],
-            "hash": "9e406f165d19d028f337b8696a225ea0263c84e2b90ff8be6982438e698d4e96"
+            "hash": "a0117d7930a525e7d9cafdfe76929391a5c534b8f74500dd3054e1410083b3ea"
         }
     },
     "homepage": "https://hooktap.me",
